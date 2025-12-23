@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "『んっあっあっ。』",
+  "base_artist": "宮下遊",
+  "createdAt": "2025-12-23T09:22:17.069732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "〞んっあっあっ。』",
+      "artist": "slave.v-v-r",
+      "has_synced": true,
+      "path": "select/01_〞んっあっあっ。』_slave.v-v-r.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "『んっあっあっ。』",
+      "artist": "SLAVE.V-V-R feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_『んっあっあっ。』_SLAVE.V-V-R_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "『んっあっあっ。』 (feat. 初音ミク)",
+      "artist": "SLAVE.V-V-R",
+      "has_synced": true,
+      "path": "select/03_『んっあっあっ。』_(feat._初音ミク)_SLAVE.V-V-R.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "『んっあっあっ。』",
+      "artist": "SLAVE.V-V-R",
+      "has_synced": true,
+      "path": "select/04_『んっあっあっ。』_SLAVE.V-V-R.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "んっあっあっ。(COVER)",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_んっあっあっ。(COVER)_宮下_遊.txt"
+    }
+  ]
+}
